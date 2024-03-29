@@ -1,3 +1,4 @@
+# 暂时无法使用
 from osgeo import gdal
 import numpy as np
 from sklearn import linear_model
